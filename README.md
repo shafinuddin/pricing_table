@@ -37,7 +37,7 @@ Update styles such as colors, fonts, or spacing in style.css.
 Add or remove pricing tiers by duplicating or deleting Flexbox columns.
 
 🚀 Live Demo
-View Live Demo <!-- Update with your GitHub Pages link if deployed -->
+https://shafinuddin.github.io/pricing_table/
 
 📜 License
 This project is licensed under the MIT License.
