@@ -22,7 +22,7 @@ pricing-table/
 🔧 How to Use
 Clone the repository:
 
-git clone https://github.com/your-username/pricing-table.git
+https://github.com/shafinuddin/pricing_table.git
 Navigate to the project folder:
 
 cd pricing-table
